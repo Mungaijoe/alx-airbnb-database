@@ -1,4 +1,4 @@
-# Normalization Report: ALX Airbnb Database
+# Normalization Report: Airbnb Database
 
 ## Objective
 
